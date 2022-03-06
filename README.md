@@ -4,6 +4,8 @@ A new Flutter project.
 
 <img src='image.png'>
 
+Dont know if this one is working, there was something wrong with my emulator it wasnt playing sound kkkkkk
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
